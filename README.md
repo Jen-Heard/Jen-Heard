@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jen-Heard
-- 👀 I’m interested in front end development, my pups, your pups, everybody's pups!
-- 🌱 I’m currently honing my front end skills and adding to my personal tool kit. 
-- 💞️ I’m looking to collaborate on any tips, pointers, or advice for tackling all things front end. 
+- 👀 I’m interested in all things front-end development, my pups, your pups, everybody's pups!
+- 🌱 I’m currently honing my front-end skills and adding to my personal tool kit. 
+- 💞️ I’m looking to collaborate on any tips, pointers, or advice for tackling all things front-end. 
 - 📫 How to reach me: JenLHeard@icloud.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm planning a move to Barcelona, Spain in summer 2025!
